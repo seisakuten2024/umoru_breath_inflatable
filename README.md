@@ -1,7 +1,7 @@
 # System configuration
 ## power supply
-PC - Arduino Uno - Air pressure sensor
-                 - Relay - Solenoid Valve - Airbags
+PC - Arduino Uno - Air pressure sensor  
+　　　　　　　　- Relay - Solenoid Valve - Airbags  
 Power Supply (24V) 」 
 
 ## master PC　（When you get the value of the air pressure sensor）
